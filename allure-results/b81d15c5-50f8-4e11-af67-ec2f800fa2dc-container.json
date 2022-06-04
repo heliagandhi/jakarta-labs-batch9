@@ -1,0 +1,1 @@
+{"uuid":"b81d15c5-50f8-4e11-af67-ec2f800fa2dc","name":"qaautomation.pert6.BaseApiTestWithSchema.login","description":"","start":1653813107400,"stop":1653813109183,"children":["d870a608-82ba-4bf7-9237-0a1575c49cc1"],"befores":[{"name":"login","status":"passed","stage":"finished","description":"","start":1653813107400,"stop":1653813109183}]}

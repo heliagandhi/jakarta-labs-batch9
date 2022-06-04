@@ -1,0 +1,1 @@
+{"uuid":"cacfb862-8848-44af-9ce1-56f81eeff47c","name":"qaautomation.task3.BaseWebTest.close","description":"","start":1653639630617,"stop":1653639631784,"children":["d429f55c-4193-442b-9709-1d2d05bc0010"],"afters":[{"name":"close","status":"passed","stage":"finished","description":"","start":1653639630618,"stop":1653639631784}]}

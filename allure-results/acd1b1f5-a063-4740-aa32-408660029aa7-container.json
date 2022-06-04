@@ -1,0 +1,1 @@
+{"uuid":"acd1b1f5-a063-4740-aa32-408660029aa7","name":"QAAutomation.May2022.BaseWebTest3.closeWeb","description":"","start":1653202455447,"stop":1653202456094,"children":["d5128d2f-6a3d-46e5-8e05-be73e7c245a9"],"afters":[{"name":"closeWeb","status":"passed","stage":"finished","description":"","start":1653202455447,"stop":1653202456093}]}

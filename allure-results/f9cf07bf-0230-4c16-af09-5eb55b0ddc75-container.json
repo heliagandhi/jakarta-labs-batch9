@@ -1,0 +1,1 @@
+{"uuid":"f9cf07bf-0230-4c16-af09-5eb55b0ddc75","name":"qaautomation.task3.BaseWebTest.openUrl","description":"","start":1653716238905,"stop":1653716242572,"children":["2e144448-8b86-44b1-b177-94c21d98636a"],"befores":[{"name":"openUrl","status":"passed","stage":"finished","description":"","start":1653716238906,"stop":1653716242571}]}
